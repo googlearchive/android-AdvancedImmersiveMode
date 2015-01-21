@@ -5,8 +5,12 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [UI]
+categories:   [Window]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-AdvancedImmersiveMode
+level:        INTERMEDIATE
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.view.Window
 license: apache2
